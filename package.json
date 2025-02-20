@@ -1,0 +1,31 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Christian Kyle Olaso</h1> <h3 align=\"center\">A Fullstack Web Developer Soon I'll edit this</h3>",
+  "main": "server.js",
+  "scripts": {
+     "start": "node src/server.js",
+     "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle24412/kyle24412.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kyle24412/kyle24412/issues"
+  },
+  "homepage": "https://github.com/kyle24412/kyle24412#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
