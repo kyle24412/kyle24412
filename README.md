@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Kyle Olaso</h1>
-<h3 align="center">A Fullstack Web Developer Soon I'll edit this</h3>
+<h3 align="center">A Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle24412&label=Profile%20views&color=0e75b6&style=flat" alt="kyle24412" /> </p>
 
